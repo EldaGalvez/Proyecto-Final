@@ -6,7 +6,7 @@ from shinywidgets import render_plotly
 import faicons as fa
 
 # Cargar datos
-df = pd.read_csv("c:/Users/Eldita/Documents/8vo semestre/Big Data/proyecto final/Aforos-RedPropia.csv", encoding="latin-1")
+df = pd.read_csv("Aforos-RedPropia.csv", encoding="latin-1")
 
 vehiculos = [
     "AUTOS", "MOTOS", "AUTOBUS DE 2 EJES", "AUTOBUS DE 3 EJES", "AUTOBUS DE 4 EJES",
