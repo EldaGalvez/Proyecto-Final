@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\Eldita\\Documents\\8vo semestre\\Big Data\\proyecto final",
+        "app_url": "https://eldagalvez.shinyapps.io/proyecto_final_capufe1/",
+        "app_id": 14779502,
+        "app_guid": null,
+        "title": "Proyecto Final CAPUFE",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
